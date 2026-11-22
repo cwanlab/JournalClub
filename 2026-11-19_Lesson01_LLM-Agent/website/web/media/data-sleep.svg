@@ -1,0 +1,56 @@
+<svg class="chart" viewBox="0 0 900 304" role="img" aria-label="minute_asleep per day: 6h 37m baseline vs 5h 09m in the last 7 days">
+  <line class="grid" x1="48" x2="890" y1="248.0" y2="248.0"/>
+  <text class="tick" x="40" y="252.0" text-anchor="end">0</text>
+  <line class="grid" x1="48" x2="890" y1="140.0" y2="140.0"/>
+  <text class="tick" x="40" y="144.0" text-anchor="end">240</text>
+  <line class="grid" x1="48" x2="890" y1="32.0" y2="32.0"/>
+  <text class="tick" x="40" y="36.0" text-anchor="end">480</text>
+
+  <rect class="bar" x="50.0" y="66.6" width="25.5" height="181.4" rx="2"><title>2025-06-01: 403 min</title></rect>
+  <text class="tick" x="62.8" y="268" text-anchor="middle">Jun 1</text>
+  <rect class="bar" x="80.1" y="73.4" width="25.5" height="174.6" rx="2"><title>2025-06-02: 388 min</title></rect>
+  <rect class="bar" x="110.2" y="70.7" width="25.5" height="177.3" rx="2"><title>2025-06-03: 394 min</title></rect>
+  <rect class="bar" x="140.3" y="67.1" width="25.5" height="180.9" rx="2"><title>2025-06-04: 402 min</title></rect>
+  <rect class="bar" x="170.4" y="66.2" width="25.5" height="181.8" rx="2"><title>2025-06-05: 404 min</title></rect>
+  <rect class="bar" x="200.5" y="64.4" width="25.5" height="183.6" rx="2"><title>2025-06-06: 408 min</title></rect>
+  <rect class="bar" x="230.6" y="68.5" width="25.5" height="179.5" rx="2"><title>2025-06-07: 399 min</title></rect>
+  <rect class="bar" x="260.7" y="71.2" width="25.5" height="176.8" rx="2"><title>2025-06-08: 393 min</title></rect>
+  <text class="tick" x="273.5" y="268" text-anchor="middle">Jun 8</text>
+  <rect class="bar" x="290.8" y="66.2" width="25.5" height="181.8" rx="2"><title>2025-06-09: 404 min</title></rect>
+  <rect class="bar" x="320.9" y="75.2" width="25.5" height="172.8" rx="2"><title>2025-06-10: 384 min</title></rect>
+  <rect class="bar" x="351.0" y="68.5" width="25.5" height="179.5" rx="2"><title>2025-06-11: 399 min</title></rect>
+  <rect class="bar" x="381.1" y="67.1" width="25.5" height="180.9" rx="2"><title>2025-06-12: 402 min</title></rect>
+  <rect class="bar" x="411.2" y="67.1" width="25.5" height="180.9" rx="2"><title>2025-06-13: 402 min</title></rect>
+  <rect class="bar" x="441.3" y="65.8" width="25.5" height="182.2" rx="2"><title>2025-06-14: 405 min</title></rect>
+  <rect class="bar" x="471.4" y="70.7" width="25.5" height="177.3" rx="2"><title>2025-06-15: 394 min</title></rect>
+  <text class="tick" x="484.2" y="268" text-anchor="middle">Jun 15</text>
+  <rect class="bar" x="501.5" y="73.9" width="25.5" height="174.1" rx="2"><title>2025-06-16: 387 min</title></rect>
+  <rect class="bar" x="531.6" y="64.9" width="25.5" height="183.1" rx="2"><title>2025-06-17: 407 min</title></rect>
+  <rect class="bar" x="561.7" y="74.8" width="25.5" height="173.2" rx="2"><title>2025-06-18: 385 min</title></rect>
+  <rect class="bar" x="591.8" y="71.6" width="25.5" height="176.4" rx="2"><title>2025-06-19: 392 min</title></rect>
+  <rect class="bar" x="621.9" y="68.0" width="25.5" height="180.0" rx="2"><title>2025-06-20: 400 min</title></rect>
+  <rect class="bar" x="652.0" y="72.1" width="25.5" height="175.9" rx="2"><title>2025-06-21: 391 min</title></rect>
+
+  <line class="day0-line" x1="680.0" x2="680.0" y1="14" y2="252" stroke="#9B172E" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="687" y="25" fill="#9B172E" font-size="12.5" font-weight="700">Day 0: metoprolol starts</text>
+
+  <rect class="bar recent" x="682.5" y="116.6" width="25.5" height="131.4" rx="2"><title>2025-06-22: 292 min</title></rect>
+  <text class="tick" x="695.2" y="268" text-anchor="middle" font-weight="700" fill="#9B172E">Jun 22</text>
+  <rect class="bar recent" x="712.6" y="123.8" width="25.5" height="124.2" rx="2"><title>2025-06-23: 276 min</title></rect>
+  <rect class="bar recent" x="742.7" y="114.4" width="25.5" height="133.6" rx="2"><title>2025-06-24: 297 min</title></rect>
+  <rect class="bar recent" x="772.8" y="112.1" width="25.5" height="135.9" rx="2"><title>2025-06-25: 302 min</title></rect>
+  <rect class="bar recent" x="802.9" y="101.8" width="25.5" height="146.2" rx="2"><title>2025-06-26: 325 min</title></rect>
+  <rect class="bar recent" x="833.0" y="98.6" width="25.5" height="149.4" rx="2"><title>2025-06-27: 332 min</title></rect>
+  <rect class="bar recent" x="863.1" y="94.1" width="25.5" height="153.9" rx="2"><title>2025-06-28: 342 min</title></rect>
+  <text class="tick" x="875.8" y="268" text-anchor="middle">Jun 28</text>
+
+  <line x1="50" x2="677" y1="69.2" y2="69.2" stroke="#14445A" stroke-width="2" stroke-dasharray="6 4"/>
+  <rect x="52" y="37" width="198" height="22" rx="4" fill="#EAF2F5"/>
+  <text x="60" y="52" fill="#14445A" font-size="12.5" font-weight="700">Baseline 21d mean: 6h 37m</text>
+
+  <line x1="682.5" x2="888.6" y1="108.8" y2="108.8" stroke="#9B172E" stroke-width="2.1" stroke-dasharray="6 4"/>
+  <rect x="684" y="64" width="206" height="23" rx="4" fill="#FAF0F2"/>
+  <text x="692" y="80" fill="#9B172E" font-size="12.5" font-weight="700">Last 7d mean: 5h 09m (−22%)</text>
+
+  <text class="tick" x="48" y="292">Minutes asleep per night (main sleep). Blue: the 21 days before. Red: the 7 days from day 0.</text>
+</svg>

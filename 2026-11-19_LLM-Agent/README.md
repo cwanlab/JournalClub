@@ -1,4 +1,4 @@
-# Lesson 01 · Foundation of LLM Agentic Systems
+# Foundation of LLM Agentic Systems
 
 - **Date:** 2026-11-19
 - **Speakers:** Running Zhao, Yusheng Tan

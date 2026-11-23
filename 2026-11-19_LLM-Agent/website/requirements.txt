@@ -1,4 +1,0 @@
-anthropic>=2.8
-pandas>=2.2
-numpy>=1.26
-markdown>=3.5
